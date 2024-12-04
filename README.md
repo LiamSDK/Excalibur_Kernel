@@ -1,4 +1,4 @@
-Excalibur | VIVA | (Android 12-15)
+Excalibur ム|彡 Sea | Ocean | (Android 12-15)
 # Changelogs:
 !!! READ BEFORE DOING ANYTHING !!!
 
